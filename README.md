@@ -1,16 +1,23 @@
-﻿# Learning Project (HTML & CSS) - CSS Flex Layout
+﻿# Learning Project (C++) - Game "Sea War"
 
-Demo - https://wbiow.github.io/Flex_Learning-Project3/
+Demo: 
+![Demo](Animation.gif)
 
 Tasks & Problems:
-1. Create a Website with a Layout - ОК
-    + Connect Fonts - ОК
-2. Create with a Rubber & Responsive Layout - ОК
-    + Change information text in the Mobile Layout  - ОК
-3. Autoprefixer CSS - OK
-4. Adding Project Files on GitHub using Command line - ОК
+1. Creation the game menu - ОК
+2. Creation of help - ОК
+3. The ability to turn ships - ОК
+4. The prohibition of the installation of ships nearby - ОК
+5. Random automatic placement of ships (for the computer and the player) - ОК
+6. After "Hit" by the computer or player, an extra turn - ОК
+7. After "Hit" by the computer but not "Drowning", a shot near the "Hit" - ОК
 
+Compatible with Windows 10.
+From Windows 7 and 8.1:
+Setup Update KB2999226 - https://www.microsoft.com/en-US/download/details.aspx?id=49077
+Microsoft Visual C ++ Redistributable Package - https://www.microsoft.com/en-US/download/details.aspx?id=48145
+Microsoft Visual C++ 2015 Update 3 - https://www.microsoft.com/en-US/download/details.aspx?id=53840
  
-Layout - https://www.figma.com/file/9Cm34XVNEsCsgFL9jjVOTO/Практика-безкоштовного-курсу-(Copy)
-![Layout Desktop](Desktop.jpg)
-![Layout Tablet](Tablet.jpg) ![Layout Mobile](Mobile.jpg)
+Demo jpg 
+![Main](Main.jpg) ![Help](Help.jpg) 
+![Start](Start.jpg) ![Game](Game.jpg)

@@ -1,6 +1,6 @@
 ﻿# Learning Project (C++) - Game "Sea War"
 
-Demo:
+Demo
 ![Demo](Animation.gif)
 
 Tasks & Problems:
